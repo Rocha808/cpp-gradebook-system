@@ -1,1 +1,2 @@
 # cpp-gradebook-system
+This Gradebook Program is essential for teacher to input, sort, and study student names and grades with the implementation of one-dimensional arrays, sorting/searching algorithms, and simple claculations.
